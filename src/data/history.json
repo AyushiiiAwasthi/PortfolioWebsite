@@ -1,0 +1,22 @@
+[
+    {
+      "role": "FFE Amazon Scholar",
+      "organisation": "2023",
+      "experiences": ["Scholarship and Mentorship program provided by Amazon to female students"],
+      "imageSrc": "../assets/ffe_logo.png"
+    },
+    {
+      "role": "Contributor at Girl Script Summer of Code",
+      "organisation": "2024",
+      "experiences": [" Actively contributed in Open-Source Projects throughout the 2-months of the program"],
+      "imageSrc": "../assets/gssoc_logo.png"
+    },
+    {
+      "role": "2 star at CodeChef",
+      "organisation": "",
+      "experiences": [
+        "Rated 1563 on the online platform in Starters 139 Div3"
+      ],
+      "imageSrc": "../assets/codechef.png"
+    }
+  ]

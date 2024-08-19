@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "../assets/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "../assets/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "../assets/react.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "../assets/js.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "../assets/cplus.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "../assets/java.png"
+    },
+    {
+      "title": "Jupyter Notebook",
+      "imageSrc": "../assets/jupyter.png"
+    }
+  ]

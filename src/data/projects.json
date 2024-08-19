@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Movie-Recommender-System",
+      "imageSrc": "../assets/img2.png",
+      "description": "The Movie Recommendation System is a content-based recommendation system  to provide personalized movie suggestions.",
+      "skills": ["Juputer Notebook", "PyCharm", "Kaggle"],
+      "demo": "https://movie-recommender-system-8xojzutfdhkmxzjuglsrtu.streamlit.app/",
+      "source": "https://github.com/AyushiiiAwasthi/Movie-Recommender-System"
+    },
+    {
+      "title": "ChatNow",
+      "imageSrc": "../assets/img1.png",
+      "description": "ChatNow is the frontend of a chatting website that enables users to communicate in real-time and provides features like chatting,blcking or viewing users.",
+      "skills": ["React", "CSS", "Vite"],
+      "demo": "https://chatnow-959enj5ke-ayushis-projects-ba4757d1.vercel.app/",
+      "source": "https://github.com/AyushiiiAwasthi/ChatNow"
+    },
+    {
+      "title": "Hilink-Travel App",
+      "imageSrc": "../assets/img3.png",
+      "description": "HiLink-Travel App is the frontend of a website designed to assist campers in finding the nearest and safest locations to enhance their camping experience.",
+      "skills": ["TypeScript", "TailwindCSS"],
+      "demo": "https://hi-link-travel-715pqdf9h-ayushis-projects-ba4757d1.vercel.app/",
+      "source": "https://github.com/AyushiiiAwasthi/HiLink-Travel-App"
+    }
+  ]
